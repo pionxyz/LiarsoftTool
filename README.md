@@ -6,4 +6,7 @@
 ## 测试通过：
 腐姬，Forest，Evermaiden
 ## 不明：
-不确定railsoft是否通用，未进行过测试
+不确定railsoft是否通用，未进行过测试   
+## 其他：
+xfl文件建议使用GARbro进行解包  
+https://github.com/morkt/GARbro
