@@ -1,1 +1,0 @@
-for %%s in (*.gsc) do RScriptText.exe "%%s"
