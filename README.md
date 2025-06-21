@@ -1,3 +1,7 @@
+用ai改写成了python的版本
+添加了将dump的txt导回gsc的功能
+
+
 # LiarsoftTool
 ## 简介：
 解包工具，针对骗子社（liarsoft）用codex rscript编写的galgame  
